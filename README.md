@@ -40,8 +40,8 @@
 * https://technology.amis.nl/2016/04/11/continuous-delivery-database/
 * 
 * 
-* 
-* 
+* https://blogs.oracle.com/shay/extending-oracle-database-devops-with-automated-plsql-unit-testing
+* http://utplsql.org/
 * 
 * 
 * 
