@@ -44,35 +44,58 @@
 * http://utplsql.org/
 * 
 * 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+
+* 		https://www.red-gate.com/hub/product-learning/sql-change-automation/moving-from-application-automation-to-true-devops-by-including-the-database
+* https://www.quest.com/solutions/devops/
+* http://assets.red-gate.com/products/oracle-development/deployment-suite-for-oracle/database-devops-with-deployment-suite-for-oracle.pdf
+* https://blogs.oracle.com/dbcs/devops-for-the-database-what
+* https://blogs.oracle.com/developers/lifecycle-management-and-devops-for-oracle-databases
+* https://blogs.oracle.com/shay/extending-oracle-database-devops-with-automated-plsql-unit-testing
+* https://flexagon.com/2018/09/3-challenges-with-migrating-oracle-database-changes-that-devops-tools-solve/
+* 		https://www.slideshare.net/MarekMasko/devops-and-databases
+* https://slideplayer.com/slide/12535177/
+* 		https://www.slideshare.net/MariaColgan1/oracle-database-12canddevops?qid=d384d04d-54e4-40a4-850f-a2dd96ba38d0&v=&b=&from_search=1
+* 		https://www.slideshare.net/jeckels/devops-with-oracle?qid=d384d04d-54e4-40a4-850f-a2dd96ba38d0&v=&b=&from_search=3
+* https://www.slideshare.net/KellyGoetsch/microservices-oracle-a-bright-future
+* https://www.slideshare.net/hajee/using-puppet-to-leverage-devops-in-large-enterprise-oracle-environments?qid=d384d04d-54e4-40a4-850f-a2dd96ba38d0&v=&b=&from_search=5
+* https://www.slideshare.net/VladimirBakhov/data-base-ci-eng
+* https://www.slideshare.net/MichaelMedin/continuous-delivery-at-oracle-database-insights
+* https://www.slideshare.net/GrantFritchey/building-an-automated-database-deployment-pipeline
+* https://www.slideshare.net/KellyGoetsch/mastering-devops-with-oracle?qid=d384d04d-54e4-40a4-850f-a2dd96ba38d0&v=&b=&from_search=8
+* https://www.slideshare.net/KellyGoetsch/multitenancy-a-core-commercetools-differentiator
+* https://www.slideshare.net/InhoKang2/mastering-devops-with-oracle-75871967?qid=d384d04d-54e4-40a4-850f-a2dd96ba38d0&v=&b=&from_search=17
+* https://www.slideshare.net/RedgateSoftware/extending-devops-to-the-database-development-best-practices?qid=d384d04d-54e4-40a4-850f-a2dd96ba38d0&v=&b=&from_search=19
+* 		https://www.slideshare.net/BlaineCarter5/devops-tools-for-database-developers?qid=d384d04d-54e4-40a4-850f-a2dd96ba38d0&v=&b=&from_search=24
+* https://www.slideshare.net/TimothyKrupinski/devops-in-your-oracle-stack?qid=d384d04d-54e4-40a4-850f-a2dd96ba38d0&v=&b=&from_search=26
+* https://www.slideshare.net/MarketingArrowECS_CZ/devops-supercharged-with-docker-on-exadata?qid=d384d04d-54e4-40a4-850f-a2dd96ba38d0&v=&b=&from_search=30
+* https://www.slideshare.net/DEVOPSDDAY/dday-2015-paas-oracle?qid=d384d04d-54e4-40a4-850f-a2dd96ba38d0&v=&b=&from_search=32
+* https://www.slideshare.net/vividcortex/devops-for-the-database-131935845?qid=bf41b17f-ee9c-4f10-8ea7-bcd1b63e3398&v=&b=&from_search=4
+
+
+* https://www.youtube.com/results?search_query=oracle+database+devops
+* https://www.youtube.com/watch?v=zhG8HR78MKU
+* https://www.youtube.com/watch?v=zQhQz9TGaCg
+* https://www.youtube.com/watch?v=UTKIT6STSVM
+* https://www.youtube.com/watch?v=V7XKEPh2oLk
+* https://www.youtube.com/watch?v=o-vXoyEJ4Lw
+* https://www.youtube.com/watch?v=lvAWhTjE0dg
+* 		https://www.youtube.com/watch?v=iy1TDYDt0a8
+* https://www.youtube.com/watch?v=1qp4YNrMr_Y
+* https://www.youtube.com/watch?v=jiw8ueQxrZ8
+* https://www.youtube.com/watch?v=NRqgGqm98S4
+* https://www.youtube.com/watch?v=3sDhR57EZ_U
+* https://www.youtube.com/watch?v=3bvRd6B1L6I
+* https://www.youtube.com/watch?v=muwkU3_e09k
+* https://www.youtube.com/watch?v=sqZ3Ah853Ko
+* https://www.youtube.com/watch?v=Mlf6Ru2UZBU
+* https://www.youtube.com/watch?v=EECHYFgbaZs
+* https://www.youtube.com/watch?v=bwE8aFPAzj8
+* 		https://www.youtube.com/watch?v=1qAZvS5rvyY
+* https://www.youtube.com/watch?v=XjM7lZ_TIAc
+* 		https://www.youtube.com/watch?v=ZetHBuMs-rg
+* https://www.youtube.com/watch?v=zFtUmAe61mg
+* https://www.youtube.com/watch?v=hA3m-NX79Cg
+* https://www.youtube.com/watch?v=a9_oMNSgX2g
 * 
 * 
 * 
