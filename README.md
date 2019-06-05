@@ -106,3 +106,15 @@
 * 
 * 
 * 
+
+
+# Shell JSON Properties file read
+* https://stackoverflow.com/questions/28185913/how-to-read-and-parse-the-json-file-and-add-it-into-the-shell-script-variable/28185962
+* http://techdive.in/scripting/shell-script-how-read-property-file-using-shell-script
+* https://medium.com/cameron-nokes/working-with-json-in-bash-using-jq-13d76d307c4
+* https://merereflections.wordpress.com/2010/01/18/reading-properties-files-in-linux-shell-scripts/
+* 
+* 
+* 
+* 
+* 
